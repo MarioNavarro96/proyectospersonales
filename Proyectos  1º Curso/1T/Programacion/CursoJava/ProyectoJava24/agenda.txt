@@ -1,0 +1,6 @@
+
+Mario|Navarro|emaildemario@gmail.com|93659204
+Nerea|Rosa|correodenerea@gmail.com|1234456
+Juan|Martinez|emaildejuan@gmail.com|1234086
+f|Apellidos|Email|Telefono
+
