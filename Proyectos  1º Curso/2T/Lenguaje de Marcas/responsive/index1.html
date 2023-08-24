@@ -1,0 +1,132 @@
+<html>
+<head>
+    <script
+  src="https://code.jquery.com/jquery-3.6.3.js"
+  integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
+  crossorigin="anonymous"></script>
+    <style>
+        body,html{
+            background: grey;      
+            height: 100%;
+        }
+       
+        @media screen and (min-width: 800px) {
+        main{
+            background: white;
+            width: 500px;
+            margin: auto;
+            height: 100%;
+        }
+            h1{
+                color: red;
+            }
+                          nav,ul {
+            list-style-type: none;
+            padding: 0px;
+            margin: 0px;
+        }
+             nav, ul, li{
+            float: left;
+            background: black;
+            color: white;
+            padding: 10px;
+            margin: 1px;
+            
+        }
+                    nav, ul, li:first-child{
+            border-radius: 15px 0px 0px 15px;
+            
+        }
+              nav, ul, li:last-child{
+            border-radius: 0px 15px 15px 0px;
+            
+        }
+        }
+         @media screen and (max-width: 800px) {
+        main{
+            background: white;
+            width: 100%;
+            margin: auto;
+            height: 100%;
+        }
+             h1{
+                 color: blue;
+                 text-align: center;
+             }
+
+       
+
+            
+      
+             #formatopc{
+                 display: none;
+             }
+             nav ul {
+            list-style-type: none;
+            padding: 0px;
+            margin: 0px;
+            height: 40px;
+            overflow: hidden;
+            transition: all 2s;
+                 
+        }
+        nav, ul, li{
+            width: 100%;
+            background: black;
+            color: white;
+            padding:10px;
+            border-bottom: 1px dashed grey;
+            text-align: center;
+            text-transform: uppercase
+        }
+            
+        }
+         .abierto{
+                 height: 400px;
+             }
+    </style>
+    <script>
+        var abierto = false;
+        $(document).ready(function(){
+            $("nav ul").click(function(){
+                if(abierto == false){
+                $(this).addClass("abierto");
+                    abierto = true;
+                }else{
+                     $(this).removeClass("abierto");
+                    abierto = false;
+                }
+            })
+            
+        })
+    </script>
+    </head>
+    <body>
+        <main>
+            <h1>Este es el titulo de la pagina</h1>
+            Esta es la parte principal de la web
+            <nav>
+                <div style="clear: both;"></div>
+                <ul>
+                    <li>Inicio</li>
+                    <li>Inicio</li>
+                    <li>Inicio</li>
+                    <li>Inicio</li>
+                    <li>Inicio</li>
+                    <li>Inicio</li>
+                </ul>
+            </nav>
+            <p id="formatopc">
+            fsfdgasdfbg wfgsdwgwerg werg wdeg
+            fdgwergwrwtr wrgwrtgwrg erqtg 5ew
+            rgwrgwrgwrgwrtgrtgwrtg wert t25r4
+            fsfdgasdfbg wfgsdwgwerg werg wdeg
+            fdgwergwrwtr wrgwrtgwrg erqtg 5ew
+            rgwrgwrgwrgwrtgrtgwrtg wert t25r4
+            fsfdgasdfbg wfgsdwgwerg werg wdeg
+            fdgwergwrwtr wrgwrtgwrg erqtg 5ew
+            rgwrgwrgwrgwrtgrtgwrtg wert t25r4
+            </p>
+        </main>
+    </body>
+</html>

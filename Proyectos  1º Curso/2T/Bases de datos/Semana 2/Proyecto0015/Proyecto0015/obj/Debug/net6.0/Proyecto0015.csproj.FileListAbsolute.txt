@@ -1,0 +1,15 @@
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\bin\Debug\net6.0\Proyecto0015.exe
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\bin\Debug\net6.0\Proyecto0015.deps.json
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\bin\Debug\net6.0\Proyecto0015.runtimeconfig.json
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\bin\Debug\net6.0\Proyecto0015.dll
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\bin\Debug\net6.0\ref\Proyecto0015.dll
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\bin\Debug\net6.0\Proyecto0015.pdb
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\Proyecto0015.csproj.AssemblyReference.cache
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\Proyecto0015.GeneratedMSBuildEditorConfig.editorconfig
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\Proyecto0015.AssemblyInfoInputs.cache
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\Proyecto0015.AssemblyInfo.cs
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\Proyecto0015.csproj.CoreCompileInputs.cache
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\Proyecto0015.dll
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\ref\Proyecto0015.dll
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\Proyecto0015.pdb
+D:\mariovisualstudio\c#\Proyecto0015\Proyecto0015\obj\Debug\net6.0\Proyecto0015.genruntimeconfig.cache

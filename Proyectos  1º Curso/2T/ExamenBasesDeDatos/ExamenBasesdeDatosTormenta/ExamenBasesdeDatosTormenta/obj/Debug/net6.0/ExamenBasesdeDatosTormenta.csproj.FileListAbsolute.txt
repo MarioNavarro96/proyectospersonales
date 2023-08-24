@@ -1,0 +1,15 @@
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\bin\Debug\net6.0\ExamenBasesdeDatosTormenta.exe
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\bin\Debug\net6.0\ExamenBasesdeDatosTormenta.deps.json
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\bin\Debug\net6.0\ExamenBasesdeDatosTormenta.runtimeconfig.json
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\bin\Debug\net6.0\ExamenBasesdeDatosTormenta.dll
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\bin\Debug\net6.0\ExamenBasesdeDatosTormenta.pdb
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ExamenBasesdeDatosTormenta.csproj.AssemblyReference.cache
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ExamenBasesdeDatosTormenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ExamenBasesdeDatosTormenta.AssemblyInfoInputs.cache
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ExamenBasesdeDatosTormenta.AssemblyInfo.cs
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ExamenBasesdeDatosTormenta.csproj.CoreCompileInputs.cache
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ExamenBasesdeDatosTormenta.dll
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\refint\ExamenBasesdeDatosTormenta.dll
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ExamenBasesdeDatosTormenta.pdb
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ExamenBasesdeDatosTormenta.genruntimeconfig.cache
+C:\Users\djbor\Desktop\ExamenBasesDeDatos\ExamenBasesdeDatosTormenta\ExamenBasesdeDatosTormenta\obj\Debug\net6.0\ref\ExamenBasesdeDatosTormenta.dll

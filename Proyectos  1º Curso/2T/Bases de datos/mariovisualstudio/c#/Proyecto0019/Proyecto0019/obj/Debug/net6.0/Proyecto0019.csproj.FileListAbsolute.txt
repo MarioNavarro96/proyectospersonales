@@ -1,0 +1,15 @@
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\bin\Debug\net6.0\Proyecto0019.exe
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\bin\Debug\net6.0\Proyecto0019.deps.json
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\bin\Debug\net6.0\Proyecto0019.runtimeconfig.json
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\bin\Debug\net6.0\Proyecto0019.dll
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\bin\Debug\net6.0\ref\Proyecto0019.dll
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\bin\Debug\net6.0\Proyecto0019.pdb
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\Proyecto0019.GeneratedMSBuildEditorConfig.editorconfig
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\Proyecto0019.AssemblyInfoInputs.cache
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\Proyecto0019.AssemblyInfo.cs
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\Proyecto0019.csproj.CoreCompileInputs.cache
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\Proyecto0019.dll
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\ref\Proyecto0019.dll
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\Proyecto0019.pdb
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\Proyecto0019.genruntimeconfig.cache
+D:\mariovisualstudio\c#\Proyecto0019\Proyecto0019\obj\Debug\net6.0\Proyecto0019.csproj.AssemblyReference.cache

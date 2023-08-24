@@ -1,0 +1,17 @@
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\bin\Debug\net6.0-windows\Proyecto0032.exe
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\bin\Debug\net6.0-windows\Proyecto0032.deps.json
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\bin\Debug\net6.0-windows\Proyecto0032.runtimeconfig.json
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\bin\Debug\net6.0-windows\Proyecto0032.dll
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\bin\Debug\net6.0-windows\ref\Proyecto0032.dll
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\bin\Debug\net6.0-windows\Proyecto0032.pdb
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.Form1.resources
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.csproj.GenerateResource.cache
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.GeneratedMSBuildEditorConfig.editorconfig
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.AssemblyInfoInputs.cache
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.AssemblyInfo.cs
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.csproj.CoreCompileInputs.cache
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.dll
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\ref\Proyecto0032.dll
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.pdb
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.genruntimeconfig.cache
+D:\mariovisualstudio\c#\Proyecto0032\Proyecto0032\obj\Debug\net6.0-windows\Proyecto0032.csproj.AssemblyReference.cache
